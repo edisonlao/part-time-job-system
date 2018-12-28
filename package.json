@@ -80,11 +80,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "jest": {
-    "collectCoverageFrom": [
-      "src/**/*.{js,jsx,mjs}"
-    ]
-  },
+
   "babel": {
     "presets": [
       "react-app"
