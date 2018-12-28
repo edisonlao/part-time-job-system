@@ -61,7 +61,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <text>6622</text>
+        <text>1122</text>
       </div>
     );
   }
